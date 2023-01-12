@@ -6,10 +6,13 @@ To Write a html webpage page to display your timetable.
 # ALGORITHM
 ### STEP 1
 create a simple table using table tag
+
 ### STEP 2
 Add header row using th tag
+
 ### STEP 3
 Add your timetable
+
 ### STEP 4
 Execute the program
 
@@ -124,6 +127,7 @@ Execute the program
 </html>
 
 '''
+
 # OUPUT
 ![OUTPUT](http://kaviyarasu.student.saveetha.in:8000/static/images/out.png?raw=true)
 
