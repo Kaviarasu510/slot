@@ -17,7 +17,7 @@ Add your timetable
 Execute the program
 
 # CODE
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,9 +125,7 @@ Execute the program
 </table>
 </body>
 </html>
-
-
-'''
+```
 
 # OUPUT
 ![OUTPUT](http://kaviyarasu.student.saveetha.in:8000/static/images/out.png?raw=true)
@@ -136,4 +134,4 @@ Execute the program
 ![HTML VALIDATOR](http://kaviyarasu.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
 # RESULT
-the progrram for creating slot timetable is completed successfully
+The progrram for creating slot timetable is completed successfully
